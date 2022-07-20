@@ -202,8 +202,14 @@ footer .social-icon {
     justify-content: center;
     align-items: center;
 }
+.mg {
+        margin: 0 30px;
+    }
 /* Responsive */
 @media (max-width: 1024px) {
+    .mg {
+        margin: 0 30px;
+    }
     header .header-content p {
         font-size: 14px;
         width: 400px;
@@ -211,7 +217,7 @@ footer .social-icon {
 }
 
 @media (max-width: 990px) {
-    body {
+    .mg {
         margin: 0 30px;
     }
     .news-blog {
@@ -252,6 +258,9 @@ footer .social-icon {
 }
 
 @media (max-width: 768px) {
+    .mg {
+        margin: 0 30px;
+    }
     header {
         display: flex;
         flex-direction: column;
