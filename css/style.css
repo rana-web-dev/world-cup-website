@@ -9,9 +9,6 @@
     list-style: none;
     box-sizing: border-box;
 }
-body {
-    margin: 0px 50px;
-}
 .max-width {
     max-width: 1200px;
     margin: auto;
