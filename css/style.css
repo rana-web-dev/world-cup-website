@@ -297,10 +297,14 @@ footer .social-icon {
     .view-all-btn {
         display: none;
     }
+    footer {
+        overflow: hidden;
+    }
     footer .social-icon {
         display: flex;
         justify-content: center;
         align-items: center;
+        margin-left: -90px;
     }
     footer .menu a {
         display: block;
