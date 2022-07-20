@@ -275,7 +275,8 @@ footer .social-icon {
         width: 100%;
     }
     header .header-content p {
-        width: 100%;
+        width: 74%;
+        margin: auto;
         font-size: 12px;
     }
     header .header-img {
